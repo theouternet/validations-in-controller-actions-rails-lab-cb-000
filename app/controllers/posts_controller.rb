@@ -14,7 +14,7 @@ if     @post.update(post_params)
   
 else 
   render:edit
-  
+
 end 
   end
 
